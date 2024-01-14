@@ -125,8 +125,6 @@ def getCardFromPlayer():
 
                 nextPlayer()
                     
-        
-
     else:
         global loop
         loop = 0
